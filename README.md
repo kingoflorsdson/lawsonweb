@@ -1,2 +1,2 @@
 # lawsonweb
-Personal website for myself.
+Personal website.
